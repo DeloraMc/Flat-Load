@@ -1,0 +1,9 @@
+c:\users\bagal\desktop\projects\Flat Load\Flat Load\bin\Debug\Flat Load.exe.config
+c:\users\bagal\desktop\projects\Flat Load\Flat Load\bin\Debug\Flat Load.exe
+c:\users\bagal\desktop\projects\Flat Load\Flat Load\bin\Debug\Flat Load.pdb
+c:\users\bagal\desktop\projects\Flat Load\Flat Load\obj\Debug\Flat Load.csprojResolveAssemblyReference.cache
+c:\users\bagal\desktop\projects\Flat Load\Flat Load\obj\Debug\Flat_Load.Form1.resources
+c:\users\bagal\desktop\projects\Flat Load\Flat Load\obj\Debug\Flat_Load.Properties.Resources.resources
+c:\users\bagal\desktop\projects\Flat Load\Flat Load\obj\Debug\Flat Load.csproj.GenerateResource.Cache
+c:\users\bagal\desktop\projects\Flat Load\Flat Load\obj\Debug\Flat Load.exe
+c:\users\bagal\desktop\projects\Flat Load\Flat Load\obj\Debug\Flat Load.pdb
